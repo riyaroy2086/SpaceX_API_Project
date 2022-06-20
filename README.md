@@ -1,5 +1,5 @@
 # Space-X API project 🚀 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*****About the project:*****
+## *****About the project:*****
 ###### A 2-page website using Space-X API .
 ###### TechStack Used : React.js , JavaScript , CSS .
 
